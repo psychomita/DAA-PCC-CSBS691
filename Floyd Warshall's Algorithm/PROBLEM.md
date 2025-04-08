@@ -1,3 +1,4 @@
+# Assignment 3
 ```
 In a professional networking platform (like LinkedIn), people are connected through various degrees of relationships.
 Each connection has a strength score that indicates the quality of the relationship. Your task is to develop an
@@ -28,5 +29,5 @@ You are given a weighted, directed graph where:
 <br/>
 
 ```
-Your task is to implement the Floyd-Warshall Algorithm to determine the strongest and shortest connection path
+Implement the Floyd-Warshall Algorithm to determine the strongest and shortest connection path
 between every pair of professionals.
