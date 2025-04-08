@@ -1,3 +1,4 @@
+# Assignment 2.2
 ```
 Imagine you want to connect with a famous AI researcher, Dr. Meera, on LinkedIn. You don’t know her personally, but
 you have mutual connections. You want to find the best way to get an introduction.  However, not all connections are
