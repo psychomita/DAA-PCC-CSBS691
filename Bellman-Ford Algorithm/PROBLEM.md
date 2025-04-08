@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 2.1
 ```
 Imagine that not all your connections help you equally. Some people have a positive reputation (boosting your chances
 of a good introduction), while others have a negative reputation (hurting your credibility). Your goal is still to
